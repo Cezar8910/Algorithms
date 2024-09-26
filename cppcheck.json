@@ -1,0 +1,7 @@
+{
+    "enable": ["all"],
+    "inconclusive": true,
+    "std": "c++11",
+    "verbose": true,
+    "language": "c++"
+}

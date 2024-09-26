@@ -1,0 +1,13 @@
+{
+    "name": "algoritmos_ec",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "format": "clang-format -i '**/*.{cpp,h,hpp}'",
+        "lint": "cppcheck --project=cppcheck.json"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

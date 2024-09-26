@@ -1,0 +1,15 @@
+{
+    "printWidth": 100,
+    "tabWidth": 4,
+    "useTabs": false,
+    "bracketSpacing": true,
+    "clangFormatOptions": {
+        "BasedOnStyle": "Google",
+        "IndentWidth": 4,
+        "TabWidth": 4,
+        "UseTab": "Never",
+        "BreakBeforeBraces": "Attach",
+        "AllowShortFunctionsOnASingleLine": false,
+        "ColumnLimit": 100
+    }
+}
